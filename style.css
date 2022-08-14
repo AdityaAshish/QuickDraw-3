@@ -1,0 +1,22 @@
+body {
+    background-color: whitesmoke
+}
+
+h1 {
+     font-family: 'Special Elite', fantasy; color:rgb(38, 0, 255); 
+     background-color: cornsilk; 
+    }
+
+    p, span { 
+        padding-top:10px; 
+        font-family: 'Special Elite', fantasy; font-size:25px;
+}
+
+#sketch_name {
+    color: navy
+}
+
+#show_sketch 
+{ float:right; 
+}
+
